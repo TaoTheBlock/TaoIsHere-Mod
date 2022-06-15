@@ -5,16 +5,16 @@
  "reload": 25,
  "targetAir": true,
  "targetGround": true,
- "range": 136,
+ "range": 145,
  "shots": 3,
  "maxAmmo": 20,
  "recoil": 4,
- "burstSpacing": 6,
+ "burstSpacing": 20,
  "ammoTypes":{
   "copper":{
-   "lifetime": 30.0,
+   "lifetime": 43.0,
    "speed": 3.2,
-   "damage": 12
+   "damage": 16
   }
  },
  "category": "turret",
