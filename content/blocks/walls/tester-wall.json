@@ -1,0 +1,9 @@
+{
+ "type": "Wall",
+ "health": 450,
+ "size": 2,
+ "requirements":[
+  {"item": "copper", "amount": 300}
+ ],
+ "category": "defense"
+}
