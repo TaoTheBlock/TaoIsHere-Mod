@@ -4,20 +4,21 @@
  "size": 1,
  "targetAir": true,
  "targetGround": true,
- "range": 145,
- "shots": 3,
+ "range": 172,
+ "inaccuracy": 3,
+ "reload": 10,
+ "shots": 1,
  "maxAmmo": 20,
  "recoil": 4,
- "burstSpacing": 5,
  "ammoTypes":{
   "copper":{
-   "lifetime": 43.0,
+   "lifetime": 50.0,
    "speed": 3.2,
    "damage": 16
   },
   "lead":{
-   "lifetime": 43.0,
-   "speed": 3.8,
+   "lifetime": 50.0,
+   "speed": 4.3,
    "damage": 28
   }
  },
