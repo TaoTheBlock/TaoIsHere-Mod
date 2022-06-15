@@ -2,7 +2,7 @@
  "type": "ItemTurret",
  "health": 300,
  "size": 1,
- "reload": 20,
+ "reload": 15,
  "targetAir": true,
  "targetGround": true,
  "range": 89,
@@ -10,7 +10,7 @@
  "maxAmmo": 20,
  "recoil": 4,
  "ammoTypes":{
-  "copper"{
+  "copper":{
    "lifetime": 300,
    "speed": 2.2,
    "damage": 12
