@@ -1,7 +1,7 @@
 {
  "type": "PowerTurret",
  "health": 500,
- "size" 2,
+ "size": 2,
  "targetAir": true,
  "targetGround": true,
  "range": 109,
