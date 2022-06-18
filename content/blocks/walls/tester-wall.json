@@ -1,9 +1,11 @@
 {
  "type": "Wall",
- "health": 1090,
+ "name": "Light Copper Large Wall",
+ "description": "Not recomended to use as a wall.",
+ "health": 990,
  "size": 2,
  "requirements":[
-  {"item": "light-copper", "amount": 36}
+  {"item": "light-copper", "amount": 24}
  ],
  "category": "defense"
 }
