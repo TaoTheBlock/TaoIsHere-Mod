@@ -6,9 +6,9 @@
  "size": 1,
  "targetAir": true,
  "targetGround": true,
- "range": 206,
+ "range": 216,
  "inaccuracy": 2,
- "reload": 25,
+ "reload": 50,
  "shots": 1,
  "maxAmmo": 10,
  "recoil": 4,
@@ -16,12 +16,12 @@
   "copper":{
    "lifetime": 75.0,
    "speed": 3.3,
-   "damage": 12
+   "damage": 10
   },
   "light-copper":{
    "lifetime": 75.0,
    "speed": 3.3,
-   "damage": 20
+   "damage": 15
   }
  },
  "category": "turret",
