@@ -18,13 +18,13 @@
   },
   "lead":{
    "lifetime": 50.0,
-   "speed": 4.3,
-   "damage": 28
+   "speed": 3.2,
+   "damage": 23
   }
  },
  "category": "turret",
  "requirements":[
-  {"item": "copper", "amount": 25},
+  {"item": "copper", "amount": 45},
   {"item": "lead", "amount": 30}
  ]
 }
