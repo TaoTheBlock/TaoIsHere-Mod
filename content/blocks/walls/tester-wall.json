@@ -1,6 +1,6 @@
 {
  "type": "Wall",
- "health": 2340,
+ "health": 1090,
  "size": 2,
  "requirements":[
   {"item": "light-copper", "amount": 36}
