@@ -1,6 +1,6 @@
 {
  "type": "Wall",
- "health": 450,
+ "health": 2340,
  "size": 2,
  "requirements":[
   {"item": "copper", "amount": 300}
