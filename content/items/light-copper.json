@@ -1,5 +1,6 @@
 {
  "type": "Item",
+ "name": "Light Copper",
  "description": "A lighter copper that used in factory or as ammo",
  "type": "material",
  "cost": 1
