@@ -3,7 +3,7 @@
  "health": 2340,
  "size": 2,
  "requirements":[
-  {"item": "copper", "amount": 40}
+  {"item": "light-copper", "amount": 36}
  ],
  "category": "defense"
 }
