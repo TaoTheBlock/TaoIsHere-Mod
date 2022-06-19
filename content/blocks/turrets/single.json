@@ -8,7 +8,7 @@
  "targetGround": true,
  "range": 196,
  "inaccuracy": 2,
- "reload": 50,
+ "reload": 10,
  "shots": 1,
  "maxAmmo": 10,
  "recoil": 4,
