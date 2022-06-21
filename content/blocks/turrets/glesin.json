@@ -1,0 +1,29 @@
+{
+ "type": "ItemTurret",
+ "health": 350,
+ "size": 1,
+ "targetAir": true,
+ "targetGround": true,
+ "reloadTime": 20,
+ "inaccuracy": 3,
+ "recoil": 2,
+ "ammoTypes":{
+  "copper":{
+   "damage": 16,
+   "speed": 3.4,
+   "lifetime": 60.0
+  },
+  "light-copper":{
+   "damage": 10,
+   "speed": 3.4,
+   "lifetime": 60.0,
+   "reloadMultiplier": 1.7
+  },
+  "graphite":{
+   "damage": 26,
+   "speed": 3.4,
+   "lifetime": 60.0,
+   "reloadMultiplier": 0.7
+  }
+ }
+}
