@@ -1,0 +1,14 @@
+{
+ "type": "OverdriveProjector",
+ "name": "Ultra Drive",
+ "description": "Boost a nearby block like a overdrive but better.",
+ "size": 3,
+ "health": 870,
+ "speedBoost": 3.5,
+ "speedBoostPhase": 5.0,
+ "range": 232,
+ "consumes":{
+  "power": 1.6
+ }
+ "category": "effect"
+}
