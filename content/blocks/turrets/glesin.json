@@ -14,7 +14,7 @@
    "lifetime": 60.0
   },
   "light-copper":{
-   "damage": 10,
+   "damage": 12,
    "speed": 3.4,
    "lifetime": 60.0,
    "reloadMultiplier": 1.7
@@ -25,5 +25,10 @@
    "lifetime": 60.0,
    "reloadMultiplier": 0.7
   }
- }
+ },
+ "requirements":[
+  {"item": "copper", "amount": 45},
+  {"item": "graphite", "amount": 20},
+  {"item": "lead", "amount": 50}
+ ]
 }
