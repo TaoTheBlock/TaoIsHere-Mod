@@ -1,11 +1,13 @@
 {
  "type": "ItemTurret",
+ "name": "Glesin",
  "health": 350,
  "size": 1,
  "targetAir": true,
  "targetGround": true,
  "reloadTime": 20,
  "inaccuracy": 3,
+ "range": 219,
  "recoil": 2,
  "ammoTypes":{
   "copper":{
@@ -30,5 +32,6 @@
   {"item": "copper", "amount": 45},
   {"item": "graphite", "amount": 20},
   {"item": "lead", "amount": 50}
- ]
+ ],
+ "category": "turret"
 }
