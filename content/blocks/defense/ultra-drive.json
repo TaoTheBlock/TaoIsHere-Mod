@@ -12,7 +12,7 @@
  },
  "category": "defense",
  "requirements":[
-  {"item": "silcon", "amount": 650},
+  {"item": "silicon", "amount": 650},
   {"item": "graphite", "amount": 700},
   {"item": "light-copper", "amount": 1200},
   {"item": "plastanium", "amount": 500}
